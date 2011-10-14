@@ -1,7 +1,8 @@
 # application.rb
 
 require 'sinatra'
+require 'sinatra/reloader'
 
 get '/' do
-  'Hello world!'
+  'Hello world!!!'
 end
