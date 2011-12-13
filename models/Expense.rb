@@ -3,7 +3,7 @@
 require 'dm-core'
 require 'dm-migrations'
 
-DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
+#DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
 
 class Expense
   include DataMapper::Resource
