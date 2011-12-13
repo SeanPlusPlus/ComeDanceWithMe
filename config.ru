@@ -1,2 +1,2 @@
-require './application.rb'
+require './expense.rb'
 run Sinatra::Application
