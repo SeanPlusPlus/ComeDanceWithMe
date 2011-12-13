@@ -2,4 +2,4 @@
 
 require 'sinatra'
 require 'sinatra/reloader'
-require './controllers/controller.rb'
+require './controllers/expense.rb'

@@ -1,7 +1,9 @@
+# /models/Expense.rb
+
 require 'dm-core'
 require 'dm-migrations'
-require './config.rb'
 
+DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
 
 class Expense
   include DataMapper::Resource
