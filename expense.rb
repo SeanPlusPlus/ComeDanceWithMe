@@ -1,7 +1,11 @@
 # /controllers/expense.rb
 
-require 'dm-core'
-require 'dm-migrations'
+
+require 'rubygems'
+require 'sinatra'
+
+#require 'dm-core'
+#require 'dm-migrations'
 
 #DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
 
