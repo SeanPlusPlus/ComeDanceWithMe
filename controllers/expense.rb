@@ -1,4 +1,4 @@
-# controllowe.rb
+# controller.rb
 
 set :haml, :format => :html5
 
