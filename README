@@ -1,1 +1,11 @@
-a todo list written with the help of sinatra
+a daily expense tracker using Sinatra / DataMapper
+
+there three directories for the MVC stuff:
+ - models
+ - views
+ - controllers
+
+and three additional dirs for house-keeping:
+  - db: for the database
+  - helpers: functions connecting controller and model
+  - public: for the css and js and images
