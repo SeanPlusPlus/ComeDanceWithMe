@@ -1,0 +1,17 @@
+.content
+  %h1= title
+  %form{:method => "post"}
+    %fieldset
+      .clearfix
+        %label title
+        .input
+          %input.large{:name => 'title'}
+      .clearfix
+        %label description
+        .input
+          %input.large{:name => 'description'}
+    %fieldset
+      .actions
+        %input{:type => "submit", :class => "btn primary", :value => "Save changes"}
+        %button{:type => "reset", :class => "btn"}Cancel
+

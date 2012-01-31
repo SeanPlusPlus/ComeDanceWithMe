@@ -1,7 +1,7 @@
 # /models/Expense.rb
 
-require 'dm-core'
-require 'dm-migrations'
+require 'rubygems'
+require 'data_mapper'
 
 DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
 
@@ -12,3 +12,5 @@ class Post
   property :title,       String
   property :description, String
 end
+
+DataMapper.finalize
