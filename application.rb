@@ -3,5 +3,5 @@
 require 'rubygems'
 require 'sinatra'
 require 'sinatra/reloader'
-require './models/Expense.rb'
-require './controllers/expense.rb'
+require './models/Post.rb'
+require './controllers/application.rb'
