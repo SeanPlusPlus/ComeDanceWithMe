@@ -2,8 +2,9 @@
 
 require 'dm-core'
 require 'dm-migrations'
+require './models/Post.rb'
 
-#DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
+DataMapper.setup( :default, "sqlite3:///Users/sms/Projects/ComeDanceWithMe/db/database.db")
 
 set :haml, :format => :html5
 
