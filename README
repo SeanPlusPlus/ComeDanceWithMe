@@ -12,3 +12,53 @@ and two additional directoriess for house-keeping:
 this software is covered under the MIT License
 
 see LICENSE for further details
+ 1010  mate .
+ 1011  ruby application.rb
+ 1012  gem install sinatra
+ 1013  ruby application.rb
+ 1014  gem install reloader
+ 1015  vim application.rb
+ 1016  ruby application.rb
+ 1017  sudo gem install reloader
+ 1018  sudo gem install addressable english rspec
+ 1019  sudo gem install data_object do_mysql do_postgres do_sqlite3
+ 1020  sudo gem install data_objects do_mysql do_postgres do_sqlite3
+ 1021  sudo gem install dm-core
+ 1022  ruby application.rb
+ 1023  irb
+ 1024  sudo gem install data_mapper
+ 1025  ruby application.rb
+ 1026  gem install dm-sqlite-adapter
+ 1027  ruby application.rb
+ 1028  gem install haml
+ 1029  ruby application.rb
+ 1030  ls
+ 1031  cd dp
+ 1032  cd db
+ 1033  ruby application.rb
+ 1034  cd ..
+ 1035  ls
+ 1036  cd ..
+ 1037  cd ComeDanceWithMe
+ 1038  ruby application.rb
+ 1039  wpd
+ 1040  pwd
+ 1041  irb
+ 1042  cd db
+ 1043  irb
+ 1044  cd ../models
+ 1045  ls
+ 1046  irb
+ 1047  cd ..
+ 1048  ls
+ 1049  vim models/Post.rb
+ 1050  irb
+ 1051  pwd
+ 1052  cd models
+ 1053  ls
+ 1054  irb
+ 1055  pwd
+ 1056  cd ..
+ 1057  ls
+ 1058  ruby application.rb
+
